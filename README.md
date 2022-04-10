@@ -1,4 +1,4 @@
-# Colicky-Horses-DSC530-
+# Colicky-Horses-DSC530
 
 Dataset:
 The dataset I am using for the project is a flat-file source (.csv file) and the data can be obtained/accessed from the below places:
